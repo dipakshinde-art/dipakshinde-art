@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i AM passionate about my coding work
 
 <!--
 **dipakshinde-art/dipakshinde-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
