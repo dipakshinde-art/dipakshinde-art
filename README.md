@@ -1,5 +1,15 @@
-### Hi there 👋 i AM passionate about my coding work
+### Hi 👋 I'm Dipak Shinde 😄
 
+
+🌱 I’m currently learning MERN Stacks and Data Structures & Algorithms.
+
+👨‍💻 Know more about me at working on..
+
+💬 Ask me about JavaScript, React, Express & MongoDB.
+
+📫 How to reach me deepakshinde3346@gmail.com
+
+⚡ Fun fact - I love trekking & Exploring things.
 <!--
 **dipakshinde-art/dipakshinde-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
