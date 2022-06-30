@@ -11,7 +11,8 @@
 
 ⚡ Fun fact - I love trekking & Exploring things.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakshinde-art
+)](https://github.com/anuraghazra/github-readme-stats)
 CONNECT WITH ME.
 
 
