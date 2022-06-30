@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stacks and Data Structures & Algorithms.**
 
- - 👨‍💻 All of my projects are available at [working on](working on)
+ - 👨‍💻 All of my projects are available at https://dipakshindeportfolio.netlify.app/
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB**
 
