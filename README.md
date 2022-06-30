@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dipak Shinde</h1>
-<h3 align="left">MERN Stack Developer from Mumbai, India</h3> <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="left">MERN Stack Developer from Mumbai, India</h3> <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakshinde-art&label=Profile%20views&color=0e75b6&style=flat" alt="dipakshinde-art" /> </p>
 
@@ -26,6 +26,8 @@
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakshinde-art&show_icons=true&locale=en&layout=compact" alt="dipakshinde-art" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakshinde-art&show_icons=true&locale=en" alt="dipakshinde-art" /></p>
 
