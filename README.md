@@ -11,24 +11,18 @@
 
 ⚡ Fun fact - I love trekking & Exploring things.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakshinde-art
-)](https://github.com/anuraghazra/github-readme-stats)
-CONNECT WITH ME.
+Connext with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipak-shinde-2857461b6/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr_d_i_p_a_k____/)  
+
+
+language and tools:
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakshinde-art&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**dipakshinde-art/dipakshinde-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakshinde-art&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
